@@ -6,7 +6,7 @@
     * `data` contains all your databases and other storage. 
     * `server` contains all server tools required to make you site running, apache, mysql, php, ...
     
-    4. Download `Apache 2.4.* Win64` file from  https://www.apachelounge.com/download and extract its content somewhere in you computer. In its extracted folder rename `Apache24` folder to `httpd` and move it to `D:\server\`.
+ 4. Download `Apache 2.4.* Win64` file from  https://www.apachelounge.com/download and extract its content somewhere in you computer. In its extracted folder rename `Apache24` folder to `httpd` and move it to `D:\server\`.
     5. Download `php-7.x.x-Win32-VC15-x64.zip` from http://windows.php.net/download/ and extract its content to `D:\server\php` 
     6.  Download `mysql-5.7.x-winx64.zip` from https://dev.mysql.com/downloads/mysql/ or other sites if access is forbidden. and extract its content to `D:/server/mysql`
     7. Download *PathEditor* utility from https://patheditor2.codeplex.com/ and run it.
@@ -40,5 +40,5 @@ Intl Extension
 2. Copy all `icu*.dll` files from php home to apache's `bin` folder.
 3. Restart apache.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODk3Mjc4Ml19
+eyJoaXN0b3J5IjpbLTE0MjQwMzAyMjBdfQ==
 -->
