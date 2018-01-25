@@ -32,6 +32,7 @@ to comment them out and finally save the file.
    15. Now if you go to `http://localhost` you should receive some sort of response. (`Forbidden
 You don't have permission to access / on this server.` message.)
   16. (optional) Download  from https://www.apachelounge.com/download/ and extract `mod_xsendfile.so` to `D:\server\httpd\modules`
+  17. Open cmd(admin) and run `mysqld install` (in mysql/bin path) and start mysql in windows services.
 4. Download `php_xdebug-*.dll` file from https://xdebug.org/download.php and rename it to php_xdebug.dll and move it to `D:\server\php\ext`
 
 Intl Extension
